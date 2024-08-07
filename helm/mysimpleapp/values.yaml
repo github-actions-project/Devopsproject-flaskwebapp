@@ -4,7 +4,7 @@ image:
   repository: soumyabani/mysimpleapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10284522542"
+  tag: "10285404852"
 
 ingress:
   enabled: false
